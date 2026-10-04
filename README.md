@@ -1,6 +1,8 @@
 # Cyber Pet
 
-A pixel-art fairy that lives on a small TFT screen and reacts to the real weather. An ESP32 connects to WiFi, fetches the current weather and time, and plays the matching animation in front of a weather backdrop (sun, clouds, rain, snow, or a night sky).
+A pixel-art fairy (perhaps a version of yourself?) that lives on a small TFT screen and reacts to the real weather. An ESP32 connects to WiFi, fetches the current weather and time, and plays the matching animation in front of a weather backdrop (sun, clouds, rain, snow, or a night sky).
+
+<img width="2048" height="1536" alt="WhatsApp Image 2026-10-05 at 00 57 21" src="https://github.com/user-attachments/assets/8a50ec80-5adf-4b55-8a53-dc6ed27a9b2f" />
 
 ## Features
 
